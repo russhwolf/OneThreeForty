@@ -1,5 +1,5 @@
 rootProject.name = 'OneThreeForty'
 
-include ":lib"
+include ":lib", ":tests"
 
 enableFeaturePreview('GRADLE_METADATA')
